@@ -13,5 +13,3 @@ Verify Page Loaded
 
 #Navigate To
 #    go to  ${FRONT_OFFICE_URL}
-#Navigate To
-#    go to  ${FRONT_OFFICE_URL}
